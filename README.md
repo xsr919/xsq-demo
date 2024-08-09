@@ -1,23 +1,9 @@
-# 教程
-
-如有需要《Cesium从入门到实战》教程的请 + 微信：brown_7778 目前课程正在开发中，可以优先锁定早鸟价格，后续会阶梯式涨价！
-
-# Vue 3 + Vite
-
-项目基于 vue3 + vite + cesium，已实现常见三维动画场景，效果浏览：http://www.brown77.cn:3389 （廉价服务器，请耐心等待）
-
-# 欢迎交流
-
-> 微信：**brown_7778**
 
 ## 项目启动
 
 ```
 npm i
-npm run dev
-
-// 安装失败的把node_modules删掉，用yarn安装
-yarn install
+npm run dev 
 ```
 
 ## 功能（已完成）

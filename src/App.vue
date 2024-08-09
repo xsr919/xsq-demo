@@ -1,10 +1,3 @@
-<!--
- * @Descripttion: 
- * @Author: 笙痞
- * @Date: 2022-10-13 16:07:57
- * @LastEditors: 笙痞77
- * @LastEditTime: 2023-11-22 20:01:06
--->
 <script setup>
 import { onMounted } from "vue";
 import store from "@/store/store.js";

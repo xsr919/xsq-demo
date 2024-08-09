@@ -1,10 +1,3 @@
-/*
- * @Description:
- * @Author: 笙痞77
- * @Date: 2023-06-05 11:16:24
- * @LastEditors: 笙痞77
- * @LastEditTime: 2024-07-25 14:29:47
- */
 import { defineConfig } from "vite";
 import vue from "@vitejs/plugin-vue";
 import AutoImport from "unplugin-auto-import/vite";
